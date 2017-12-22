@@ -1,2 +1,7 @@
 文本编辑工具： Emeditor, EditPlus，txt
-代码管理工具： git bash
+代码管理工具： git bash， 命令： git init，git add把更改加进来，git commit 提交到仓库
+任务安排：
+
+xu
+li
+jiang
