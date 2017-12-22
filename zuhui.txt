@@ -2,6 +2,10 @@
 代码管理工具： git bash， 命令： git init，git add把更改加进来，git commit 提交到仓库
 任务安排：
 
-xu
-li
-jiang
+xu：
+海报图像embedding
+librec跑推荐算法实验
+li：
+可视化用户行为
+jiang：
+文本相似度计算
