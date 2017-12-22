@@ -1,0 +1,2 @@
+文本编辑工具： Emeditor, EditPlus，txt
+代码管理工具： git bash
